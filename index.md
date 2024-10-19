@@ -1,3 +1,3 @@
 # Happy Learning
 
-![Image of Yaktocat](https://images.app.goo.gl/LRmPxC7CT45q1RH76)
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
